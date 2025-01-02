@@ -3,7 +3,8 @@
     "listing": "/index.html",
     "items": [
       "/posts/pororo.html",
-      "/posts/test.html"
+      "/posts/test.html",
+      "/posts/test2.html"
     ]
   }
 ]
